@@ -1,0 +1,229 @@
+<site sitename="New Site" templatepreview="" version="3.0" FullPath="D:\GitHub\8voPlataformasDesarrolloII\Semana2\TutoriaWebPageMakerSolucion\Semana2.wss"><css><a cssname="style1"><link fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/><hover fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/><active fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/><visited fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/></a></css><page id="p52747316" name="index" pageindex="0"><body backgroundcolor="" textcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="C:\Program Files (x86)\Web Page Maker\Resource\background\backgroud1\bg101.gif" bgpreview="C:\Program Files (x86)\Web Page Maker\Resource\background\backgroud1\bg101.gif" bgimagedata="" bgsound="" bgspreview="" bgsoundloop="1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" bgoutput="images/bg101.gif"><Component id="shape1" zorder="0" type="4" filename="rect44720074" left="12" top="67" width="758" height="1037" bgcolor="#FFFFFF" bordercolor="#C0C0C0" borderstyle="1" borderwidth="1" fillstyle="0" spborder="1" previewfile="C:\Users\admin\AppData\Local\Temp\Web Page Maker\docO72VU\shapeRP749.gif" exportfilename="images/rect44720074.gif"/><Component id="image3" zorder="1" type="3" filename="image44857201" left="13" top="69" width="755" height="17" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business002\images\line5.gif" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business002\images\line5.gif" originwidth="24" originheight="17" thumbname="thumb210540156" resamplename="img210540187" exportfilename="images/line5.gif"/><Component id="text2" zorder="2" type="2" filename="text44997182" left="376" top="328" width="350" height="220" text="" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#808080"&gt;Xamarin.Forms is a feature of Xamarin, the popular mobile development framework that extends the .NET developer platform with tools and libraries for building mobile apps.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080"&gt;Xamarin.Forms is an open source cross-platform framework from Microsoft for building iOS, Android, &amp;amp; Windows apps with .NET from a single shared codebase.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080"&gt;Use Xamarin.Forms built in pages, layouts, and controls to build and design mobile apps from a single API that is highly extensible. Subclass any control to customize their behavior or define your own controls, layouts, pages, and cells to make your app pixel perfect&lt;/font&gt;&lt;font color="#808080" face="Tahoma"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#808080"&gt;Xamarin.Forms is a feature of Xamarin, the popular mobile development framework that extends the .NET developer platform with tools and libraries for building mobile apps.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080"&gt;Xamarin.Forms is an open source cross-platform framework from Microsoft for building iOS, Android, &amp;amp; Windows apps with .NET from a single shared codebase.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080"&gt;Use Xamarin.Forms built in pages, layouts, and controls to build and design mobile apps from a single API that is highly extensible. Subclass any control to customize their behavior or define your own controls, layouts, pages, and cells to make your app pixel perfect&lt;/font&gt;&lt;font color="#808080" face="Tahoma"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpFAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgVBcmlhbAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVDb2xvcgcGY2xHcmF5AAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANyA1IDAgMCAwIDANClhhbWFyaW4uRm9y
+bXMgaXMgYSBmZWF0dXJlIG9mIFhhbWFyaW4sIHRoZSBwb3B1bGFyIG1vYmlsZSBkZXZlbG9wbWVu
+dCBmcmFtZXdvcmsgdGhhdCBleHRlbmRzIHRoZSAuTkVUIGRldmVsb3BlciBwbGF0Zm9ybSB3aXRo
+IHRvb2xzIGFuZCBsaWJyYXJpZXMgZm9yIGJ1aWxkaW5nIG1vYmlsZSBhcHBzLg0KDQpYYW1hcmlu
+LkZvcm1zIGlzIGFuIG9wZW4gc291cmNlIGNyb3NzLXBsYXRmb3JtIGZyYW1ld29yayBmcm9tIE1p
+Y3Jvc29mdCBmb3IgYnVpbGRpbmcgaU9TLCBBbmRyb2lkLCAmIFdpbmRvd3MgYXBwcyB3aXRoIC5O
+RVQgZnJvbSBhIHNpbmdsZSBzaGFyZWQgY29kZWJhc2UuDQoNClVzZSBYYW1hcmluLkZvcm1zIGJ1
+aWx0IGluIHBhZ2VzLCBsYXlvdXRzLCBhbmQgY29udHJvbHMgdG8gYnVpbGQgYW5kIGRlc2lnbiBt
+b2JpbGUgYXBwcyBmcm9tIGEgc2luZ2xlIEFQSSB0aGF0IGlzIGhpZ2hseSBleHRlbnNpYmxlLiBT
+dWJjbGFzcyBhbnkgY29udHJvbCB0byBjdXN0b21pemUgdGhlaXIgYmVoYXZpb3Igb3IgZGVmaW5l
+IHlvdXIgb3duIGNvbnRyb2xzLCBsYXlvdXRzLCBwYWdlcywgYW5kIGNlbGxzIHRvIG1ha2UgeW91
+ciBhcHAgcGl4ZWwgcGVyZmVjdA0KOCAxIC0xIDEgMCAwDQouDQo=
+</rvf></Component><Component id="image8" zorder="3" type="3" filename="image52477749" left="311" top="104" width="138" height="138" src="C:\Users\admin\Pictures\xamarin-logo.png" previewfile="C:\Users\admin\Pictures\xamarin-logo.png" originwidth="400" originheight="400" thumbname="thumb210540187" resamplename="img210540203" exportfilename="images/xamarin-logo.png"/><Component id="image9" zorder="4" type="3" filename="image52665649" left="13" top="1103" width="759" height="42" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business002\images\software_09.jpg" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business002\images\software_09.jpg" originwidth="780" originheight="42" thumbname="thumb210540203" resamplename="img210540218" exportfilename="images/software_09.jpg"/><Component zorder="5" global="1" id="g_text3"/><Component zorder="7" global="1" id="g_text1"/><Component type="3" id="image1" zorder="6" filename="image209335781" left="12" top="23" width="759" height="45" originwidth="100" originheight="45" src="C:\Program Files (x86)\Web Page Maker\Resource\stretchable\strectch13.gif" resample="1" previewfile="C:\Program Files (x86)\Web Page Maker\Resource\stretchable\strectch13.gif" tempfile="C:\Users\admin\AppData\Local\Temp\Web Page Maker\docO72VU\imgBPCPL.gif" thumbname="thumb210540218" resamplename="img210540234" exportfilename="images/img210540234.gif"/><Component type="2" id="text1" zorder="8" filename="text209436593" left="35" top="227" width="709" height="56" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Black"&gt;An open-source framework for building iOS, Android, and Windows apps&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Black"&gt;An open-source framework for building iOS, Android, and Windows apps&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawAALTkgMiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0
+eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENl
+bnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIg
+MCA0DQpydnMNCgIAAAAOADcgMSAxIDAgMCAwDQpBbiBvcGVuLXNvdXJjZSBmcmFtZXdvcmsgZm9y
+IGJ1aWxkaW5nIGlPUywgQW5kcm9pZCwgYW5kIFdpbmRvd3MgYXBwcw0K
+</rvf></Component><Component type="2" id="text3" zorder="9" filename="text209507765" left="377" top="287" width="340" height="58" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Arial Black"&gt;Build stunning cross-platform user interfaces&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Arial Black"&gt;Build stunning cross-platform user interfaces&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawAALTkgMiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0
+eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENl
+bnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIg
+MCA0DQpydnMNCgIAAAAOADcgMSAwIDAgMCAwDQpCdWlsZCBzdHVubmluZyBjcm9zcy1wbGF0Zm9y
+bSB1c2VyIGludGVyZmFjZXMNCg==
+</rvf></Component><Component type="3" id="image2" zorder="10" filename="image209707734" width="281" height="280" originwidth="492" originheight="491" src="C:\Users\admin\Documents\Web Page Maker\Import\paste2.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste2.jpg" left="57" top="280" thumbname="thumb210540234" resamplename="img210540250" exportfilename="images/paste2.jpg"/><Component type="2" id="text4" zorder="11" filename="text209722140" left="290" top="92" width="191" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" face="Arial Black"&gt;XAMARIN.FORMS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" face="Arial Black"&gt;XAMARIN.FORMS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMNCmwA
+AAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMCAwIDAgMA0KWEFNQVJJTi5GT1JNUw0K
+</rvf></Component><Component type="4" id="shape2" zorder="12" filename="shape210144531" width="758" height="238" bgcolor="#3366FF" previewfile="C:\Users\admin\AppData\Local\Temp\Web Page Maker\docO72VU\shapeHJPTN.gif" left="12" top="598" spborder="1" borderstyle="1" bordercolor="#C2CCD1" borderwidth="1" fillstyle="0" exportfilename="images/shape210144531.gif"/><Component type="2" id="text5" zorder="13" filename="text210224718" left="50" top="721" width="312" height="89" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;Xamarin.Forms is more than just a cross-platform UI library, it is a full application framework that includes everything you need to build mobile apps. This includes cross-platform navigation, animation APIs, dependency service, messaging center, and more.&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;Xamarin.Forms is more than just a cross-platform UI library, it is a full application framework that includes everything you need to build mobile apps. This includes cross-platform navigation, animation APIs, dependency service, messaging center, and more.&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0
+eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENl
+bnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIg
+MCA0DQpydnMNCgIAAAAOADAgMSAwIDAgMCAwDQpYYW1hcmluLkZvcm1zIGlzIG1vcmUgdGhhbiBq
+dXN0IGEgY3Jvc3MtcGxhdGZvcm0gVUkgbGlicmFyeSwgaXQgaXMgYSBmdWxsIGFwcGxpY2F0aW9u
+IGZyYW1ld29yayB0aGF0IGluY2x1ZGVzIGV2ZXJ5dGhpbmcgeW91IG5lZWQgdG8gYnVpbGQgbW9i
+aWxlIGFwcHMuIFRoaXMgaW5jbHVkZXMgY3Jvc3MtcGxhdGZvcm0gbmF2aWdhdGlvbiwgYW5pbWF0
+aW9uIEFQSXMsIGRlcGVuZGVuY3kgc2VydmljZSwgbWVzc2FnaW5nIGNlbnRlciwgYW5kIG1vcmUu
+DQo=
+</rvf></Component><Component type="2" id="text6" zorder="14" filename="text210243250" left="50" top="666" width="307" height="37" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:27px"&gt;&lt;B&gt;Application Framework&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws20"&gt;&lt;B&gt;Application Framework&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoLAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFU3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIgMCAy
+DQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMCAwIDAgMA0KQXBwbGljYXRpb24g
+RnJhbWV3b3JrDQo=
+</rvf></Component><Component type="3" id="image4" zorder="15" filename="image210262921" width="300" height="142" originwidth="300" originheight="142" src="C:\Users\admin\Documents\Web Page Maker\Import\paste3.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste3.jpg" left="418" top="650" thumbname="thumb210540250" resamplename="img210540265" exportfilename="images/paste3.jpg"/><Component type="3" id="image5" zorder="16" filename="image210369218" width="300" height="142" originwidth="300" originheight="142" src="C:\Users\admin\Documents\Web Page Maker\Import\paste4.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste4.jpg" left="49" top="893" thumbname="thumb210540265" resamplename="img210540281" exportfilename="images/paste4.jpg"/><Component type="2" id="text7" zorder="17" filename="text210378296" left="417" top="882" width="307" height="37" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:27px"&gt;&lt;B&gt;Model-View-ViewModel&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws20"&gt;&lt;B&gt;Model-View-ViewModel&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoLAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFU3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIgMCAy
+DQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMCAwIDAgMA0KTW9kZWwtVmlldy1W
+aWV3TW9kZWwNCg==
+</rvf></Component><Component type="2" id="text8" zorder="18" filename="text210382671" left="407" top="928" width="312" height="123" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;MVVM is a design pattern used to decouple user-interface (view), data (model), and application logic (view model). Xamarin has built-in support for the MVVM pattern including data binding, making it easy to follow this design pattern so that you can create application code that's better tested and easier to extend without requiring radical changes.&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;MVVM is a design pattern used to decouple user-interface (view), data (model), and application logic (view model). Xamarin has built-in support for the MVVM pattern including data binding, making it easy to follow this design pattern so that you can create application code that's better tested and easier to extend without requiring radical changes.&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0
+eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENl
+bnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIg
+MCA0DQpydnMNCgIAAAAOADAgMSAwIDAgMCAwDQpNVlZNIGlzIGEgZGVzaWduIHBhdHRlcm4gdXNl
+ZCB0byBkZWNvdXBsZSB1c2VyLWludGVyZmFjZSAodmlldyksIGRhdGEgKG1vZGVsKSwgYW5kIGFw
+cGxpY2F0aW9uIGxvZ2ljICh2aWV3IG1vZGVsKS4gWGFtYXJpbiBoYXMgYnVpbHQtaW4gc3VwcG9y
+dCBmb3IgdGhlIE1WVk0gcGF0dGVybiBpbmNsdWRpbmcgZGF0YSBiaW5kaW5nLCBtYWtpbmcgaXQg
+ZWFzeSB0byBmb2xsb3cgdGhpcyBkZXNpZ24gcGF0dGVybiBzbyB0aGF0IHlvdSBjYW4gY3JlYXRl
+IGFwcGxpY2F0aW9uIGNvZGUgdGhhdCdzIGJldHRlciB0ZXN0ZWQgYW5kIGVhc2llciB0byBleHRl
+bmQgd2l0aG91dCByZXF1aXJpbmcgcmFkaWNhbCBjaGFuZ2VzLg0K
+</rvf></Component></body></page>
+	<components><Component id="g_text1" zorder="25" type="2" left="23" top="38" width="63" height="20" text="" filename="text26822658" group="0" groupname="" html="" exporthtml="" rvf="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" include="p52747316,p25954991,p26351962"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Arial Black"&gt;&lt;B&gt;&lt;a href="page://p52747316" title=""&gt;INICIO&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Arial Black"&gt;&lt;B&gt;&lt;a href="page://p52747316" title=""&gt;INICIO&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqPAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xCbGFjawAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawVT
+dHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJC05leHRTdHlsZU5v
+AgcAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHls
+ZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNl
+bnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA4IDEgMCAw
+IDAgInVybD1wYWdlOi8vcDUyNzQ3MzE2Ig0KSU5JQ0lPDQo=
+</rvf></Component><Component id="g_text3" zorder="16" type="2" left="13" top="1123" width="755" height="38" text="" filename="text54945166" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" include="p52747316,p25954991,p26351962"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:11px" color="#000000" face="Tahoma"&gt;2021 - Diseñado por Marco Ayala&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws8" color="#000000" face="Tahoma"&gt;2021 - Diseñado por Marco Ayala&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoMAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBwdjbEJsYWNrAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANyAxIDEgMCAwIDANCjIwMjEgLSBEaXNl
+8WFkbyBwb3IgTWFyY28gQXlhbGENCg==
+</rvf></Component></components></site>

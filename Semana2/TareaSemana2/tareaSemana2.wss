@@ -1,0 +1,373 @@
+<site sitename="New Site" templatepreview="" version="3.0" FullPath="D:\GitHub\8voPlataformasDesarrolloII\Semana2\TareaSemana2\tareaSemana2.wss"><css/><page id="p49024423" name="index" pageindex="0"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0"><Component id="image3" zorder="0" type="3" filename="image49115274" left="255" top="400" width="341" height="19" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\box3.jpg" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\box3.jpg" originwidth="341" originheight="19" group="0" groupname=""/><Component id="image4" zorder="1" type="3" filename="image49115284" left="610" top="400" width="162" height="19" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\box4.jpg" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\box4.jpg" originwidth="162" originheight="19" group="0" groupname=""/><Component zorder="2" global="1" id="g_image3"/><Component zorder="3" global="1" id="g_image1"/><Component zorder="4" global="1" id="g_text1"/><Component id="image13" zorder="5" type="3" filename="image49115384" left="593" top="134" width="20" height="620" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" originwidth="20" originheight="33" group="0" groupname=""/><Component id="image14" zorder="6" type="3" filename="image49115394" left="238" top="137" width="20" height="617" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" originwidth="20" originheight="33" group="0" groupname=""/><Component id="text5" zorder="7" type="2" filename="text49115424" left="611" top="174" width="153" height="205" text="" bgcolor="" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;MEDIMED&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;BIODILAB&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;FARMACYS&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;SANASANA&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;ECONOMICAS&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;METROPILITANA&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;MEDIMED&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;BIODILAB&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;FARMACYS&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;SANASANA&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;ECONOMICAS&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;METROPILITANA&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkAAVDb2xvcgSWlpYAAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQp1AAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5k
+YXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQCAAtGb250LkhlaWdodALwCUZv
+bnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQE7PCFQAAALTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEg
+LTEgMSAwIDANCk1FRElNRUQNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpC
+SU9ESUxBQg0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCkZBUk1BQ1lTDQot
+MTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KU0FOQVNBTkENCi0xMSAwIDAgMCAw
+IDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpFQ09OT01JQ0FTDQotMTEgMCAwIDAgMCAwIDAgMCAw
+IDANCjMgMSAtMSAxIDAgMA0KTUVUUk9QSUxJVEFOQQ0K
+</rvf></Component><Component id="image17" zorder="8" type="3" filename="image49115454" left="632" top="444" width="118" height="78" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\1-pic-2.jpg" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\1-pic-2.jpg" originwidth="116" originheight="76" changefilename="0" alt="" bgcolor="" bordercolor="#C0C0C0" borderstyle="1" borderwidth="1" group="0" groupname=""/><Component zorder="9" global="1" id="g_nav1"/><Component id="text3" zorder="10" type="2" filename="text24590709" left="263" top="144" width="310" height="247" text="" group="0" groupname="" html="" exporthtml="" rvf="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" color="#FF9900" face="Arial Narrow"&gt;Benivenidos&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;..............................................................................................................&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#000000" face="Tahoma"&gt;¿Por qué Confiamed?&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#000000" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Somos la empresa de medicina prepagada con la mayor red de prestadores médicos del país y planes hechos a tu medida.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Cobertura total hasta $100.000&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Más de 130.000 afiliados confían en los beneficios de Confiamed&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;209 prestadores médicos a nivel nacional con más de 1000 doctores a tu disposición&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Ambulancia y consultas médicas 24/7 a nivel nacional&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Contamos con planes individuales, familiares y empresariales&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" color="#FF9900" face="Arial Narrow"&gt;Benivenidos&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;..............................................................................................................&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#000000" face="Tahoma"&gt;¿Por qué Confiamed?&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#000000" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Somos la empresa de medicina prepagada con la mayor red de prestadores médicos del país y planes hechos a tu medida.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Cobertura total hasta $100.000&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Más de 130.000 afiliados confían en los beneficios de Confiamed&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;209 prestadores médicos a nivel nacional con más de 1000 doctores a tu disposición&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Ambulancia y consultas médicas 24/7 a nivel nacional&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Contamos con planes individuales, familiares y empresariales&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp+AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEFyaWFsIE5hcnJvdwRTaXplAhAFQ29sb3IE
+/5kAAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEF
+Q29sb3IHB2NsQmxhY2sAAC05IDIgMCAwIDIgMCAyDQpydnMNClABAAAOAQlTdHlsZU5hbWUGCkxl
+ZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50
+BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxp
+Z25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRh
+YmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdh
+bnRSZXR1cm5zAARUYWJzDgAAAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24IU3RhbmRhcmQICUFsaWdu
+bWVudAcKcnZhSnVzdGlmeQdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQqE
+AAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50
+AigLRmlyc3RJbmRlbnQCAAxNYXJrZXJJbmRlbnQCGAtGb250LkhlaWdodALxCUZvbnQuTmFtZQYG
+U3ltYm9sAAAFTHN0SUQEyHWATwAANCAxIDAgMCAwIDANCkJlbml2ZW5pZG9zDQozIDEgMCAwIDAg
+MA0KLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4N
+CjUgMiA0IDAgMCAwDQq/UG9yIHF16SBDb25maWFtZWQ/DQoNCjMgMiA0IDAgMCAwDQpTb21vcyBs
+YSBlbXByZXNhIGRlIG1lZGljaW5hIHByZXBhZ2FkYSBjb24gbGEgbWF5b3IgcmVkIGRlIHByZXN0
+YWRvcmVzIG3pZGljb3MgZGVsIHBh7XMgeSBwbGFuZXMgaGVjaG9zIGEgdHUgbWVkaWRhLg0KDQot
+MTEgMCA0IDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KQ29iZXJ0dXJhIHRvdGFsIGhhc3Rh
+ICQxMDAuMDAwDQotMTEgMCA0IDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KTeFzIGRlIDEz
+MC4wMDAgYWZpbGlhZG9zIGNvbmbtYW4gZW4gbG9zIGJlbmVmaWNpb3MgZGUgQ29uZmlhbWVkDQot
+MTEgMCA0IDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KMjA5IHByZXN0YWRvcmVzIG3pZGlj
+b3MgYSBuaXZlbCBuYWNpb25hbCBjb24gbeFzIGRlIDEwMDAgZG9jdG9yZXMgYSB0dSBkaXNwb3Np
+Y2nzbg0KLTExIDAgNCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCkFtYnVsYW5jaWEgeSBj
+b25zdWx0YXMgbelkaWNhcyAyNC83IGEgbml2ZWwgbmFjaW9uYWwNCi0xMSAwIDQgMCAwIDAgMCAw
+IDAgMA0KMyAxIC0xIDEgMCAwDQpDb250YW1vcyBjb24gcGxhbmVzIGluZGl2aWR1YWxlcywgZmFt
+aWxpYXJlcyB5IGVtcHJlc2FyaWFsZXMNCg==
+</rvf></Component><Component type="3" id="image5" zorder="11" filename="image537889078" width="49" height="49" originwidth="222" originheight="221" src="C:\Users\admin\Documents\Web Page Maker\Import\paste7.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste7.jpg" left="38" top="18"/><Component type="3" id="image6" zorder="12" filename="image554026000" width="343" height="159" originwidth="1026" originheight="476" src="C:\Users\admin\Documents\Web Page Maker\Import\paste8.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste8.jpg" left="253" top="424"/><Component type="3" id="image1" zorder="13" filename="image554126406" width="105" height="110" originwidth="309" originheight="322" src="C:\Users\admin\Documents\Web Page Maker\Import\paste9.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste9.jpg" left="17" top="138"/><Component type="3" id="image2" zorder="14" filename="image554153328" width="108" height="110" originwidth="308" originheight="312" src="C:\Users\admin\Documents\Web Page Maker\Import\paste10.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste10.jpg" left="134" top="138"/><Component type="3" id="image7" zorder="15" filename="image554194281" width="107" height="105" originwidth="322" originheight="317" src="C:\Users\admin\Documents\Web Page Maker\Import\paste11.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste11.jpg" left="17" top="254"/><Component type="3" id="image8" zorder="16" filename="image554214828" width="112" height="108" originwidth="318" originheight="306" src="C:\Users\admin\Documents\Web Page Maker\Import\paste12.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste12.jpg" left="128" top="252"/><Component type="3" id="image9" zorder="17" filename="image554289046" width="232" height="198" originwidth="406" originheight="345" src="C:\Users\admin\Documents\Web Page Maker\Import\paste13.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste13.jpg" left="9" top="365"/><Component type="3" id="image10" zorder="18" filename="image554312015" width="223" height="194" originwidth="414" originheight="360" src="C:\Users\admin\Documents\Web Page Maker\Import\paste14.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste14.jpg" left="15" top="561"/></body></page>
+	<page id="p23949147" name="services" pageindex="1"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0"><Component id="image1" zorder="0" type="3" filename="image49115203" left="21" top="760" width="752" height="64" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\bot21.jpg" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\bot21.jpg" originwidth="741" originheight="64" group="0" groupname=""/><Component id="text2" zorder="1" type="2" filename="text49115223" left="609" top="425" width="163" height="329" text="" bgcolor="#F7F7F7" html="" exporthtml="" rvf="" group="0" groupname="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoDAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBwZj
+bEdyYXkAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24H
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50
+ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50Bwhy
+dmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlv
+bnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5z
+AARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQoNCg==
+</rvf></Component><Component id="image13" zorder="2" type="3" filename="image49115384" left="593" top="134" width="20" height="620" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" originwidth="20" originheight="33" group="0" groupname=""/><Component id="text5" zorder="3" type="2" filename="text49115424" left="611" top="174" width="153" height="205" text="" bgcolor="" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;PHARMACEUTICAL&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;BIOTECHNOLOGY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;VETERINARY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;AGRO CHEM&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;FOOD COLORS&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;COSMETIC&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;VETERINARY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;AGRO CHEM&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;BIOTECHNOLOGY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;PHARMACEUTICAL&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;BIOTECHNOLOGY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;VETERINARY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;AGRO CHEM&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;FOOD COLORS&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;COSMETIC&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;VETERINARY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;AGRO CHEM&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;BIOTECHNOLOGY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkAAVDb2xvcgSWlpYAAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQp1AAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5k
+YXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQCAAtGb250LkhlaWdodALwCUZv
+bnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEzw3oAwAALTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEg
+LTEgMSAwIDANClBIQVJNQUNFVVRJQ0FMDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAx
+IDAgMA0KQklPVEVDSE5PTE9HWQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDAN
+ClZFVEVSSU5BUlkNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpBR1JPIENI
+RU0NCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpGT09EIENPTE9SUw0KLTEx
+IDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCkNPU01FVElDDQotMTEgMCAwIDAgMCAw
+IDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KVkVURVJJTkFSWQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAw
+DQozIDEgLTEgMSAwIDANCkFHUk8gQ0hFTQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEg
+MSAwIDANCkJJT1RFQ0hOT0xPR1kNCg==
+</rvf></Component><Component id="image3" zorder="4" type="3" filename="image24468684" left="610" top="400" width="162" height="19" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\box4.jpg" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\box4.jpg" originwidth="162" originheight="19" group="0" groupname=""/><Component id="text3" zorder="5" type="2" filename="text24517003" left="19" top="140" width="464" height="36" text="" group="0" groupname="" html="" exporthtml="" rvf="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" color="#FF9900" face="Arial Narrow"&gt;Nuestros Servicios&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" color="#FF9900" face="Arial Narrow"&gt;Nuestros Servicios&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEFyaWFsIE5hcnJvdwRTaXplAhAFQ29sb3IE
+/5kAAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGlnbghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFK
+dXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAw
+IDAgMCAwDQpOdWVzdHJvcyBTZXJ2aWNpb3MNCjMgMSA0IDAgMCAwDQoNCg==
+</rvf></Component><Component id="g_nav1" zorder="6" global="1"/><Component id="g_text1" zorder="7" global="1"/><Component id="g_image3" zorder="8" global="1"/><Component id="g_image1" zorder="9" global="1"/><Component type="3" id="image5" zorder="10" filename="image554468281" width="418" height="232" originwidth="833" originheight="463" src="C:\Users\admin\Documents\Web Page Maker\Import\paste15.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste15.jpg" left="52" top="166"/><Component type="3" id="image2" zorder="11" filename="image554492187" width="418" height="122" originwidth="837" originheight="244" src="C:\Users\admin\Documents\Web Page Maker\Import\paste16.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste16.jpg" left="52" top="400"/></body></page>
+	<page id="p25066473" name="products" pageindex="2"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0"><Component id="image14" zorder="0" type="3" filename="image49115394" left="238" top="137" width="20" height="616" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" originwidth="20" originheight="33" group="0" groupname=""/><Component id="text3" zorder="1" type="2" filename="text24517003" left="263" top="144" width="475" height="174" text="" group="0" groupname="" html="" exporthtml="" rvf="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" color="#FF9900" face="Arial Narrow"&gt;Planes&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;......................................................................................................................&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:19px" color="#FF9900" face="Tahoma"&gt;Planes Individuales&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:16px" color="#000000" face="Tahoma"&gt;Sabemos que te preocupas por tu bienestar y de tu familia, por eso te ofrecemos el Plan Individual. Mayor cobertura, atención integral y servicio de calidad, puedes acceder a todos los beneficios que necesitas.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" color="#FF9900" face="Arial Narrow"&gt;Planes&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;......................................................................................................................&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws14" color="#FF9900" face="Tahoma"&gt;Planes Individuales&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws12" color="#000000" face="Tahoma"&gt;Sabemos que te preocupas por tu bienestar y de tu familia, por eso te ofrecemos el Plan Individual. Mayor cobertura, atención integral y servicio de calidad, puedes acceder a todos los beneficios que necesitas.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrLAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEFyaWFsIE5hcnJvdwRTaXplAhAFQ29sb3IE
+/5kAAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQIOBUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYGVGFob21hBFNpemUCDAVDb2xvcgcHY2xCbGFjawAALTkgMiAwIDAgMiAwIDINCnJ2cw0K
+UAEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxl
+UHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBB
+bGlnbghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05
+IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAwIDAgMCAwDQpQbGFuZXMNCjMgMSAwIDAgMCAw
+DQouLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uDQo1IDEgNCAwIDAgMA0KUGxhbmVzIEluZGl2aWR1YWxlcw0KNiAxIDQgMCAwIDANClNh
+YmVtb3MgcXVlIHRlIHByZW9jdXBhcyBwb3IgdHUgYmllbmVzdGFyIHkgZGUgdHUgZmFtaWxpYSwg
+cG9yIGVzbyB0ZSBvZnJlY2Vtb3MgZWwgUGxhbiBJbmRpdmlkdWFsLiBNYXlvciBjb2JlcnR1cmEs
+IGF0ZW5jafNuIGludGVncmFsIHkgc2VydmljaW8gZGUgY2FsaWRhZCwgcHVlZGVzIGFjY2VkZXIg
+YSB0b2RvcyBsb3MgYmVuZWZpY2lvcyBxdWUgbmVjZXNpdGFzLg0K
+</rvf></Component><Component id="g_nav1" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image3" zorder="4" global="1"/><Component id="g_image1" zorder="5" global="1"/><Component type="4" id="shape1" zorder="6" filename="shape553549640" left="269" top="314" width="153" height="95" bgcolor="#FF9900" spborder="1" borderstyle="1" bordercolor="#FF6600" borderwidth="1" fillstyle="0" previewfile="C:\Users\admin\AppData\Local\Temp\Web Page Maker\docO72VU\shapeL0DQ3.gif"/><Component type="4" id="shape2" zorder="7" filename="shape553617875" left="443" top="313" width="153" height="95" bgcolor="#FF9900" spborder="1" borderstyle="1" bordercolor="#FF6600" borderwidth="1" fillstyle="0" previewfile="C:\Users\admin\AppData\Local\Temp\Web Page Maker\docO72VU\shapeBEA8N.gif"/><Component type="4" id="shape3" zorder="8" filename="shape553622703" left="615" top="312" width="153" height="95" bgcolor="#FF9900" spborder="1" borderstyle="1" bordercolor="#FF6600" borderwidth="1" fillstyle="0" previewfile="C:\Users\admin\AppData\Local\Temp\Web Page Maker\docO72VU\shapeLIPJ2.gif"/><Component type="2" id="text1" zorder="9" filename="text553650875" left="278" top="336" width="138" height="53" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#FFFFFF"&gt;Plan Individual&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#FFFFFF"&gt;hasta $10000&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#FFFFFF"&gt;Plan Individual&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#FFFFFF"&gt;hasta $10000&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrvAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIQBUNvbG9yBwdjbFdoaXRlAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2
+cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAy
+IDAgNA0KcnZzDQoCAAAADgAzIDIgMSAwIDAgMA0KUGxhbiBJbmRpdmlkdWFsDQpoYXN0YSAkMTAw
+MDANCg==
+</rvf></Component><Component type="2" id="text4" zorder="10" filename="text553710500" left="451" top="335" width="138" height="53" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#FFFFFF"&gt;Plan Individual&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#FFFFFF"&gt;hasta 30000&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#FFFFFF"&gt;Plan Individual&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#FFFFFF"&gt;hasta 30000&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrvAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIQBUNvbG9yBwdjbFdoaXRlAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2
+cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAy
+IDAgNA0KcnZzDQoCAAAADgAzIDIgMSAwIDAgMA0KUGxhbiBJbmRpdmlkdWFsDQpoYXN0YSAzMDAw
+MA0K
+</rvf></Component><Component type="2" id="text5" zorder="11" filename="text553736390" left="622" top="333" width="138" height="53" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#FFFFFF"&gt;Plan Individual&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#FFFFFF"&gt;hasta 50000&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#FFFFFF"&gt;Plan Individual&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#FFFFFF"&gt;hasta 50000&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrvAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIQBUNvbG9yBwdjbFdoaXRlAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2
+cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAy
+IDAgNA0KcnZzDQoCAAAADgAzIDIgMSAwIDAgMA0KUGxhbiBJbmRpdmlkdWFsDQpoYXN0YSA1MDAw
+MA0K
+</rvf></Component><Component type="2" id="text6" zorder="12" filename="text553754937" left="468" top="485" width="159" height="36" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:35px"&gt;+6000&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws26"&gt;+6000&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrgAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIaAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJ
+U3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRl
+cmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1Jp
+Z2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFt
+ZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0
+FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAA
+DgAzIDEgMCAwIDAgMA0KKzYwMDANCg==
+</rvf></Component><Component type="2" id="text8" zorder="13" filename="text553788109" left="336" top="539" width="408" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="129"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:35px"&gt;Afiliados en Planes Individuales a nivel nacional&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws26"&gt;Afiliados en Planes Individuales a nivel nacional&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrgAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIaAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJ
+U3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRl
+cmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1Jp
+Z2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFt
+ZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0
+FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAA
+DgAzIDEgMSAwIDAgMA0KQWZpbGlhZG9zIGVuIFBsYW5lcyBJbmRpdmlkdWFsZXMgYSBuaXZlbCBu
+YWNpb25hbA0K
+</rvf></Component><Component type="4" id="shape4" zorder="14" filename="shape553814062" left="272" top="437" width="495" height="1" bgcolor="#C0C0C0" previewfile="C:\Users\admin\AppData\Local\Temp\Web Page Maker\docO72VU\shape0DJD1.gif"/><Component type="2" id="text2" zorder="15" filename="text554763312" left="29" top="141" width="213" height="342" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px" color="#FF6600"&gt;&lt;B&gt;Nuestros Afiliados&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;Me encuentro completamente a gusto con el servicio brindado, y en especial con la pronta, debida y excelente atención de su personal, puedo indicar que he sido guiada por los Señores&amp;nbsp; JUAN CARLOS COELLO y VANESSA MERCHAN quienes han sido muy gratos y eficientes además de ser muy cordiales en su atención y cuando he necesitado explicación de coberturas, montos y demás las mismas han sido debidamente solventadas por ellos.&lt;/div&gt;
+&lt;div&gt;Me encuentro muy satisfecha con el servicio brindado e inclusive lo he recomendado a familiares y amigos.&lt;/div&gt;
+&lt;div&gt;Ma. Gabriela Tapia&lt;/div&gt;
+&lt;div&gt;Afiliada de plan individual&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14" color="#FF6600"&gt;&lt;B&gt;Nuestros Afiliados&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;Me encuentro completamente a gusto con el servicio brindado, y en especial con la pronta, debida y excelente atención de su personal, puedo indicar que he sido guiada por los Señores&amp;nbsp; JUAN CARLOS COELLO y VANESSA MERCHAN quienes han sido muy gratos y eficientes además de ser muy cordiales en su atención y cuando he necesitado explicación de coberturas, montos y demás las mismas han sido debidamente solventadas por ellos.&lt;/div&gt;
+&lt;div&gt;Me encuentro muy satisfecha con el servicio brindado e inclusive lo he recomendado a familiares y amigos.&lt;/div&gt;
+&lt;div&gt;Ma. Gabriela Tapia&lt;/div&gt;
+&lt;div&gt;Afiliada de plan individual&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr4AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQABUNvbG9yA/9mAAAtOSAy
+IDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1Jl
+YWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KTnVlc3Ryb3MgQWZpbGlhZG9z
+DQowIDQgMCAwIDAgMA0KTWUgZW5jdWVudHJvIGNvbXBsZXRhbWVudGUgYSBndXN0byBjb24gZWwg
+c2VydmljaW8gYnJpbmRhZG8sIHkgZW4gZXNwZWNpYWwgY29uIGxhIHByb250YSwgZGViaWRhIHkg
+ZXhjZWxlbnRlIGF0ZW5jafNuIGRlIHN1IHBlcnNvbmFsLCBwdWVkbyBpbmRpY2FyIHF1ZSBoZSBz
+aWRvIGd1aWFkYSBwb3IgbG9zIFNl8W9yZXMgIEpVQU4gQ0FSTE9TIENPRUxMTyB5IFZBTkVTU0Eg
+TUVSQ0hBTiBxdWllbmVzIGhhbiBzaWRvIG11eSBncmF0b3MgeSBlZmljaWVudGVzIGFkZW3hcyBk
+ZSBzZXIgbXV5IGNvcmRpYWxlcyBlbiBzdSBhdGVuY2nzbiB5IGN1YW5kbyBoZSBuZWNlc2l0YWRv
+IGV4cGxpY2FjafNuIGRlIGNvYmVydHVyYXMsIG1vbnRvcyB5IGRlbeFzIGxhcyBtaXNtYXMgaGFu
+IHNpZG8gZGViaWRhbWVudGUgc29sdmVudGFkYXMgcG9yIGVsbG9zLg0KTWUgZW5jdWVudHJvIG11
+eSBzYXRpc2ZlY2hhIGNvbiBlbCBzZXJ2aWNpbyBicmluZGFkbyBlIGluY2x1c2l2ZSBsbyBoZSBy
+ZWNvbWVuZGFkbyBhIGZhbWlsaWFyZXMgeSBhbWlnb3MuDQpNYS4gR2FicmllbGEgVGFwaWENCkFm
+aWxpYWRhIGRlIHBsYW4gaW5kaXZpZHVhbA0K
+</rvf></Component></body></page>
+	<components><Component id="g_image1" zorder="7" type="3" filename="image49115304" left="21" top="1" width="584" height="8" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\busi2_line.jpg" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\busi2_line.jpg" originwidth="584" originheight="8" group="0" groupname="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" changefilename="0" alt="" include="p49024423,p23949147,p25066473,p554604562"/><Component id="g_image3" zorder="6" type="3" filename="image49115294" left="610" top="0" width="162" height="128" src="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\building.jpg" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\building.jpg" originwidth="162" originheight="97" group="0" groupname="" include="p49024423,p23949147,p25066473,p554604562"/><Component id="g_text1" zorder="8" type="2" left="99" top="25" width="331" height="52" text="" filename="text49115374" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" include="p49024423,p23949147,p25066473,p554604562"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:37px" color="#FF9900"&gt;&lt;B&gt;CONFIAMED&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws28" color="#FF9900"&gt;&lt;B&gt;CONFIAMED&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIcBVN0eWxlCwZmc0JvbGQABUNvbG9yBP+ZAAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpDT05GSUFNRUQNCg==
+</rvf></Component><Component type="5" id="g_nav1" zorder="14" filename="nav49517662" width="468" height="41" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="4" navstyle="0" hormargin="0" vermargin="0" navwidth="113" navheight="41" normalimage="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\business_nav02.gif" mouseoverimage="C:\Program Files (x86)\Web Page Maker\Templates\Business\Business004\images\nav01.jpg" mouseoversound="" navcount="4" navtext0="INICIO" navurl0="page://p49024423" navtarget0="" navstate0="0" navtext1="SERVICIOS" navurl1="page://p23949147" navtarget1="" navstate1="0" navtext2="PLANES" navurl2="page://p25066473" navtarget2="" navstate2="0" navtext3="CONTACTOS" navurl3="page://p554604562" navtarget3="" navstate3="0" left="17" top="87" preview="C:\Users\admin\AppData\Local\Temp\Web Page Maker\docO72VU\NavCAFKE" navtarget4="" navtext5="" navurl5="" navtarget5="" navstate5="0" include="p49024423,p23949147,p25066473,p554604562" selected="1"/></components><page id="p554604562" name="contactos" pageindex="3"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0"><Component id="g_nav1" zorder="0" global="1"/><Component id="g_text1" zorder="1" global="1"/><Component id="g_image3" zorder="2" global="1"/><Component id="g_image1" zorder="3" global="1"/><Component type="3" id="image2" zorder="4" filename="image554640546" width="573" height="297" originwidth="847" originheight="438" src="C:\Users\admin\Documents\Web Page Maker\Import\paste17.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste17.jpg" left="19" top="149"/><Component type="3" id="image1" zorder="5" filename="image554667703" width="570" height="322" originwidth="895" originheight="452" src="C:\Users\admin\Documents\Web Page Maker\Import\paste18.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste18.jpg" left="15" top="447"/><Component type="3" id="image3" zorder="6" filename="image554699359" width="569" height="125" originwidth="1124" originheight="247" src="C:\Users\admin\Documents\Web Page Maker\Import\paste19.jpg" previewfile="C:\Users\admin\Documents\Web Page Maker\Import\paste19.jpg" left="17" top="798"/></body></page>
+</site>
