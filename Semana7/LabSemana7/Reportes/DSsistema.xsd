@@ -1,0 +1,814 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSsistema" targetNamespace="http://tempuri.org/DSsistema.xsd" xmlns:mstns="http://tempuri.org/DSsistema.xsd" xmlns="http://tempuri.org/DSsistema.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="accessConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="accessConnectionString (Settings)" PropertyReference="ApplicationSettings.LabSemana7.Properties.Settings.GlobalReference.Default.accessConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="EncuestaTableAdapter" GeneratorDataComponentClassName="EncuestaTableAdapter" Name="Encuesta" UserDataComponentName="EncuestaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="accessConnectionString (Settings)" DbObjectName="Encuesta" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>DELETE FROM `Encuesta` WHERE ((`NumEncuesta` = ?) AND ((? = 1 AND `Sexo` IS NULL) OR (`Sexo` = ?)) AND ((? = 1 AND `Ciudad` IS NULL) OR (`Ciudad` = ?)) AND ((? = 1 AND `Área` IS NULL) OR (`Área` = ?)) AND ((? = 1 AND `Cargo` IS NULL) OR (`Cargo` = ?)) AND ((? = 1 AND `Tiempo` IS NULL) OR (`Tiempo` = ?)) AND ((? = 1 AND `Preg1` IS NULL) OR (`Preg1` = ?)) AND ((? = 1 AND `Preg2` IS NULL) OR (`Preg2` = ?)) AND ((? = 1 AND `Preg3` IS NULL) OR (`Preg3` = ?)) AND ((? = 1 AND `Preg4` IS NULL) OR (`Preg4` = ?)) AND ((? = 1 AND `Preg5` IS NULL) OR (`Preg5` = ?)) AND ((? = 1 AND `Preg6` IS NULL) OR (`Preg6` = ?)) AND ((? = 1 AND `Preg7` IS NULL) OR (`Preg7` = ?)) AND ((? = 1 AND `Preg8` IS NULL) OR (`Preg8` = ?)) AND ((? = 1 AND `Preg9` IS NULL) OR (`Preg9` = ?)) AND ((? = 1 AND `Preg10` IS NULL) OR (`Preg10` = ?)) AND ((? = 1 AND `Preg11` IS NULL) OR (`Preg11` = ?)) AND ((? = 1 AND `Preg12` IS NULL) OR (`Preg12` = ?)) AND ((? = 1 AND `Preg13` IS NULL) OR (`Preg13` = ?)) AND ((? = 1 AND `Preg14` IS NULL) OR (`Preg14` = ?)) AND ((? = 1 AND `Preg15` IS NULL) OR (`Preg15` = ?)) AND ((? = 1 AND `Preg16` IS NULL) OR (`Preg16` = ?)) AND ((? = 1 AND `Preg17` IS NULL) OR (`Preg17` = ?)) AND ((? = 1 AND `Preg18` IS NULL) OR (`Preg18` = ?)) AND ((? = 1 AND `Preg19` IS NULL) OR (`Preg19` = ?)) AND ((? = 1 AND `Preg20` IS NULL) OR (`Preg20` = ?)) AND ((? = 1 AND `Preg21` IS NULL) OR (`Preg21` = ?)) AND ((? = 1 AND `Preg22` IS NULL) OR (`Preg22` = ?)) AND ((? = 1 AND `Preg23` IS NULL) OR (`Preg23` = ?)) AND ((? = 1 AND `Preg24` IS NULL) OR (`Preg24` = ?)) AND ((? = 1 AND `Preg25` IS NULL) OR (`Preg25` = ?)) AND ((? = 1 AND `Preg26` IS NULL) OR (`Preg26` = ?)) AND ((? = 1 AND `Preg27` IS NULL) OR (`Preg27` = ?)) AND ((? = 1 AND `Preg28` IS NULL) OR (`Preg28` = ?)) AND ((? = 1 AND `Preg29` IS NULL) OR (`Preg29` = ?)) AND ((? = 1 AND `Preg30` IS NULL) OR (`Preg30` = ?)) AND ((? = 1 AND `Preg31` IS NULL) OR (`Preg31` = ?)) AND ((? = 1 AND `Preg32` IS NULL) OR (`Preg32` = ?)) AND ((? = 1 AND `Preg33` IS NULL) OR (`Preg33` = ?)) AND ((? = 1 AND `Preg34` IS NULL) OR (`Preg34` = ?)) AND ((? = 1 AND `Preg35` IS NULL) OR (`Preg35` = ?)) AND ((? = 1 AND `Preg36` IS NULL) OR (`Preg36` = ?)) AND ((? = 1 AND `Preg37` IS NULL) OR (`Preg37` = ?)) AND ((? = 1 AND `Preg38` IS NULL) OR (`Preg38` = ?)) AND ((? = 1 AND `Preg39` IS NULL) OR (`Preg39` = ?)) AND ((? = 1 AND `Preg40` IS NULL) OR (`Preg40` = ?)) AND ((? = 1 AND `Preg41` IS NULL) OR (`Preg41` = ?)) AND ((? = 1 AND `Preg42` IS NULL) OR (`Preg42` = ?)) AND ((? = 1 AND `Preg43` IS NULL) OR (`Preg43` = ?)) AND ((? = 1 AND `Preg44` IS NULL) OR (`Preg44` = ?)) AND ((? = 1 AND `Preg45` IS NULL) OR (`Preg45` = ?)) AND ((? = 1 AND `Preg46` IS NULL) OR (`Preg46` = ?)) AND ((? = 1 AND `Preg47` IS NULL) OR (`Preg47` = ?)) AND ((? = 1 AND `Preg48` IS NULL) OR (`Preg48` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_NumEncuesta" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="NumEncuesta" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Sexo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Sexo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Sexo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Sexo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Ciudad" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Ciudad" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Ciudad" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Ciudad" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Área" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Área" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Área" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Área" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Cargo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Cargo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Cargo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Cargo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Tiempo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Tiempo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Tiempo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Tiempo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg1" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg1" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg1" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg1" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg2" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg2" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg2" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg2" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg3" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg3" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg3" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg3" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg4" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg4" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg4" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg4" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg5" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg5" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg5" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg5" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg6" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg6" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg6" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg6" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg7" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg7" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg7" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg7" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg8" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg8" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg8" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg8" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg9" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg9" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg9" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg9" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg10" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg10" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg10" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg10" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg11" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg11" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg11" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg11" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg12" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg12" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg12" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg12" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg13" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg13" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg13" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg13" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg14" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg14" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg14" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg14" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg15" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg15" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg15" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg15" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg16" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg16" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg16" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg16" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg17" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg17" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg17" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg17" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg18" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg18" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg18" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg18" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg19" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg19" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg19" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg19" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg20" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg20" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg20" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg20" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg21" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg21" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg21" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg21" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg22" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg22" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg22" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg22" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg23" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg23" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg23" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg23" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg24" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg24" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg24" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg24" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg25" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg25" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg25" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg25" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg26" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg26" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg26" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg26" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg27" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg27" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg27" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg27" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg28" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg28" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg28" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg28" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg29" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg29" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg29" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg29" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg30" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg30" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg30" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg30" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg31" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg31" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg31" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg31" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg32" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg32" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg32" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg32" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg33" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg33" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg33" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg33" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg34" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg34" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg34" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg34" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg35" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg35" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg35" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg35" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg36" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg36" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg36" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg36" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg37" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg37" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg37" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg37" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg38" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg38" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg38" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg38" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg39" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg39" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg39" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg39" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg40" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg40" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg40" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg40" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg41" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg41" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg41" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg41" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg42" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg42" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg42" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg42" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg43" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg43" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg43" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg43" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg44" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg44" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg44" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg44" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg45" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg45" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg45" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg45" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg46" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg46" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg46" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg46" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg47" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg47" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg47" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg47" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg48" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg48" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg48" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg48" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `Encuesta` (`Sexo`, `Ciudad`, `Área`, `Cargo`, `Tiempo`, `Preg1`, `Preg2`, `Preg3`, `Preg4`, `Preg5`, `Preg6`, `Preg7`, `Preg8`, `Preg9`, `Preg10`, `Preg11`, `Preg12`, `Preg13`, `Preg14`, `Preg15`, `Preg16`, `Preg17`, `Preg18`, `Preg19`, `Preg20`, `Preg21`, `Preg22`, `Preg23`, `Preg24`, `Preg25`, `Preg26`, `Preg27`, `Preg28`, `Preg29`, `Preg30`, `Preg31`, `Preg32`, `Preg33`, `Preg34`, `Preg35`, `Preg36`, `Preg37`, `Preg38`, `Preg39`, `Preg40`, `Preg41`, `Preg42`, `Preg43`, `Preg44`, `Preg45`, `Preg46`, `Preg47`, `Preg48`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Sexo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Sexo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Ciudad" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Ciudad" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Área" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Área" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Cargo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Cargo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Tiempo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Tiempo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg1" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg2" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg3" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg3" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg4" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg4" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg5" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg5" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg6" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg6" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg7" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg7" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg8" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg8" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg9" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg9" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg10" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg10" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg11" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg11" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg12" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg12" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg13" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg13" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg14" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg14" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg15" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg15" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg16" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg16" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg17" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg17" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg18" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg18" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg19" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg19" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg20" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg20" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg21" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg21" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg22" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg22" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg23" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg23" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg24" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg24" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg25" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg25" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg26" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg26" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg27" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg27" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg28" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg28" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg29" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg29" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg30" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg30" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg31" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg31" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg32" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg32" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg33" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg33" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg34" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg34" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg35" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg35" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg36" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg36" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg37" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg37" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg38" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg38" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg39" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg39" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg40" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg40" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg41" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg41" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg42" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg42" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg43" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg43" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg44" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg44" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg45" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg45" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg46" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg46" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg47" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg47" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg48" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg48" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Encuesta.*
+FROM            Encuesta</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE `Encuesta` SET `Sexo` = ?, `Ciudad` = ?, `Área` = ?, `Cargo` = ?, `Tiempo` = ?, `Preg1` = ?, `Preg2` = ?, `Preg3` = ?, `Preg4` = ?, `Preg5` = ?, `Preg6` = ?, `Preg7` = ?, `Preg8` = ?, `Preg9` = ?, `Preg10` = ?, `Preg11` = ?, `Preg12` = ?, `Preg13` = ?, `Preg14` = ?, `Preg15` = ?, `Preg16` = ?, `Preg17` = ?, `Preg18` = ?, `Preg19` = ?, `Preg20` = ?, `Preg21` = ?, `Preg22` = ?, `Preg23` = ?, `Preg24` = ?, `Preg25` = ?, `Preg26` = ?, `Preg27` = ?, `Preg28` = ?, `Preg29` = ?, `Preg30` = ?, `Preg31` = ?, `Preg32` = ?, `Preg33` = ?, `Preg34` = ?, `Preg35` = ?, `Preg36` = ?, `Preg37` = ?, `Preg38` = ?, `Preg39` = ?, `Preg40` = ?, `Preg41` = ?, `Preg42` = ?, `Preg43` = ?, `Preg44` = ?, `Preg45` = ?, `Preg46` = ?, `Preg47` = ?, `Preg48` = ? WHERE ((`NumEncuesta` = ?) AND ((? = 1 AND `Sexo` IS NULL) OR (`Sexo` = ?)) AND ((? = 1 AND `Ciudad` IS NULL) OR (`Ciudad` = ?)) AND ((? = 1 AND `Área` IS NULL) OR (`Área` = ?)) AND ((? = 1 AND `Cargo` IS NULL) OR (`Cargo` = ?)) AND ((? = 1 AND `Tiempo` IS NULL) OR (`Tiempo` = ?)) AND ((? = 1 AND `Preg1` IS NULL) OR (`Preg1` = ?)) AND ((? = 1 AND `Preg2` IS NULL) OR (`Preg2` = ?)) AND ((? = 1 AND `Preg3` IS NULL) OR (`Preg3` = ?)) AND ((? = 1 AND `Preg4` IS NULL) OR (`Preg4` = ?)) AND ((? = 1 AND `Preg5` IS NULL) OR (`Preg5` = ?)) AND ((? = 1 AND `Preg6` IS NULL) OR (`Preg6` = ?)) AND ((? = 1 AND `Preg7` IS NULL) OR (`Preg7` = ?)) AND ((? = 1 AND `Preg8` IS NULL) OR (`Preg8` = ?)) AND ((? = 1 AND `Preg9` IS NULL) OR (`Preg9` = ?)) AND ((? = 1 AND `Preg10` IS NULL) OR (`Preg10` = ?)) AND ((? = 1 AND `Preg11` IS NULL) OR (`Preg11` = ?)) AND ((? = 1 AND `Preg12` IS NULL) OR (`Preg12` = ?)) AND ((? = 1 AND `Preg13` IS NULL) OR (`Preg13` = ?)) AND ((? = 1 AND `Preg14` IS NULL) OR (`Preg14` = ?)) AND ((? = 1 AND `Preg15` IS NULL) OR (`Preg15` = ?)) AND ((? = 1 AND `Preg16` IS NULL) OR (`Preg16` = ?)) AND ((? = 1 AND `Preg17` IS NULL) OR (`Preg17` = ?)) AND ((? = 1 AND `Preg18` IS NULL) OR (`Preg18` = ?)) AND ((? = 1 AND `Preg19` IS NULL) OR (`Preg19` = ?)) AND ((? = 1 AND `Preg20` IS NULL) OR (`Preg20` = ?)) AND ((? = 1 AND `Preg21` IS NULL) OR (`Preg21` = ?)) AND ((? = 1 AND `Preg22` IS NULL) OR (`Preg22` = ?)) AND ((? = 1 AND `Preg23` IS NULL) OR (`Preg23` = ?)) AND ((? = 1 AND `Preg24` IS NULL) OR (`Preg24` = ?)) AND ((? = 1 AND `Preg25` IS NULL) OR (`Preg25` = ?)) AND ((? = 1 AND `Preg26` IS NULL) OR (`Preg26` = ?)) AND ((? = 1 AND `Preg27` IS NULL) OR (`Preg27` = ?)) AND ((? = 1 AND `Preg28` IS NULL) OR (`Preg28` = ?)) AND ((? = 1 AND `Preg29` IS NULL) OR (`Preg29` = ?)) AND ((? = 1 AND `Preg30` IS NULL) OR (`Preg30` = ?)) AND ((? = 1 AND `Preg31` IS NULL) OR (`Preg31` = ?)) AND ((? = 1 AND `Preg32` IS NULL) OR (`Preg32` = ?)) AND ((? = 1 AND `Preg33` IS NULL) OR (`Preg33` = ?)) AND ((? = 1 AND `Preg34` IS NULL) OR (`Preg34` = ?)) AND ((? = 1 AND `Preg35` IS NULL) OR (`Preg35` = ?)) AND ((? = 1 AND `Preg36` IS NULL) OR (`Preg36` = ?)) AND ((? = 1 AND `Preg37` IS NULL) OR (`Preg37` = ?)) AND ((? = 1 AND `Preg38` IS NULL) OR (`Preg38` = ?)) AND ((? = 1 AND `Preg39` IS NULL) OR (`Preg39` = ?)) AND ((? = 1 AND `Preg40` IS NULL) OR (`Preg40` = ?)) AND ((? = 1 AND `Preg41` IS NULL) OR (`Preg41` = ?)) AND ((? = 1 AND `Preg42` IS NULL) OR (`Preg42` = ?)) AND ((? = 1 AND `Preg43` IS NULL) OR (`Preg43` = ?)) AND ((? = 1 AND `Preg44` IS NULL) OR (`Preg44` = ?)) AND ((? = 1 AND `Preg45` IS NULL) OR (`Preg45` = ?)) AND ((? = 1 AND `Preg46` IS NULL) OR (`Preg46` = ?)) AND ((? = 1 AND `Preg47` IS NULL) OR (`Preg47` = ?)) AND ((? = 1 AND `Preg48` IS NULL) OR (`Preg48` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Sexo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Sexo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Ciudad" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Ciudad" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Área" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Área" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Cargo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Cargo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Tiempo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Tiempo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg1" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg2" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg3" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg3" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg4" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg4" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg5" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg5" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg6" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg6" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg7" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg7" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg8" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg8" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg9" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg9" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg10" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg10" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg11" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg11" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg12" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg12" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg13" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg13" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg14" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg14" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg15" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg15" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg16" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg16" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg17" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg17" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg18" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg18" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg19" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg19" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg20" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg20" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg21" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg21" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg22" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg22" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg23" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg23" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg24" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg24" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg25" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg25" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg26" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg26" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg27" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg27" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg28" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg28" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg29" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg29" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg30" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg30" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg31" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg31" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg32" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg32" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg33" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg33" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg34" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg34" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg35" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg35" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg36" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg36" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg37" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg37" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg38" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg38" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg39" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg39" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg40" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg40" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg41" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg41" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg42" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg42" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg43" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg43" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg44" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg44" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg45" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg45" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg46" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg46" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg47" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg47" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Preg48" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg48" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_NumEncuesta" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="NumEncuesta" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Sexo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Sexo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Sexo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Sexo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Ciudad" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Ciudad" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Ciudad" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Ciudad" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Área" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Área" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Área" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Área" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Cargo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Cargo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Cargo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Cargo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Tiempo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Tiempo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Tiempo" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Tiempo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg1" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg1" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg1" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg1" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg2" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg2" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg2" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg2" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg3" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg3" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg3" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg3" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg4" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg4" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg4" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg4" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg5" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg5" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg5" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg5" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg6" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg6" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg6" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg6" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg7" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg7" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg7" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg7" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg8" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg8" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg8" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg8" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg9" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg9" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg9" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg9" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg10" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg10" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg10" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg10" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg11" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg11" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg11" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg11" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg12" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg12" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg12" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg12" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg13" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg13" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg13" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg13" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg14" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg14" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg14" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg14" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg15" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg15" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg15" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg15" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg16" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg16" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg16" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg16" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg17" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg17" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg17" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg17" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg18" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg18" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg18" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg18" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg19" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg19" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg19" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg19" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg20" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg20" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg20" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg20" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg21" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg21" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg21" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg21" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg22" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg22" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg22" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg22" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg23" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg23" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg23" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg23" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg24" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg24" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg24" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg24" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg25" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg25" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg25" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg25" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg26" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg26" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg26" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg26" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg27" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg27" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg27" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg27" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg28" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg28" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg28" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg28" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg29" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg29" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg29" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg29" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg30" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg30" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg30" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg30" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg31" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg31" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg31" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg31" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg32" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg32" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg32" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg32" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg33" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg33" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg33" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg33" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg34" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg34" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg34" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg34" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg35" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg35" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg35" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg35" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg36" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg36" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg36" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg36" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg37" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg37" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg37" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg37" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg38" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg38" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg38" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg38" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg39" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg39" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg39" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg39" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg40" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg40" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg40" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg40" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg41" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg41" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg41" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg41" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg42" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg42" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg42" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg42" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg43" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg43" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg43" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg43" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg44" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg44" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg44" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg44" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg45" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg45" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg45" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg45" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg46" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg46" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg46" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg46" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg47" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg47" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg47" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg47" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Preg48" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Preg48" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Preg48" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Preg48" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NumEncuesta" DataSetColumn="NumEncuesta" />
+              <Mapping SourceColumn="Sexo" DataSetColumn="Sexo" />
+              <Mapping SourceColumn="Ciudad" DataSetColumn="Ciudad" />
+              <Mapping SourceColumn="Área" DataSetColumn="Área" />
+              <Mapping SourceColumn="Cargo" DataSetColumn="Cargo" />
+              <Mapping SourceColumn="Tiempo" DataSetColumn="Tiempo" />
+              <Mapping SourceColumn="Preg1" DataSetColumn="Preg1" />
+              <Mapping SourceColumn="Preg2" DataSetColumn="Preg2" />
+              <Mapping SourceColumn="Preg3" DataSetColumn="Preg3" />
+              <Mapping SourceColumn="Preg4" DataSetColumn="Preg4" />
+              <Mapping SourceColumn="Preg5" DataSetColumn="Preg5" />
+              <Mapping SourceColumn="Preg6" DataSetColumn="Preg6" />
+              <Mapping SourceColumn="Preg7" DataSetColumn="Preg7" />
+              <Mapping SourceColumn="Preg8" DataSetColumn="Preg8" />
+              <Mapping SourceColumn="Preg9" DataSetColumn="Preg9" />
+              <Mapping SourceColumn="Preg10" DataSetColumn="Preg10" />
+              <Mapping SourceColumn="Preg11" DataSetColumn="Preg11" />
+              <Mapping SourceColumn="Preg12" DataSetColumn="Preg12" />
+              <Mapping SourceColumn="Preg13" DataSetColumn="Preg13" />
+              <Mapping SourceColumn="Preg14" DataSetColumn="Preg14" />
+              <Mapping SourceColumn="Preg15" DataSetColumn="Preg15" />
+              <Mapping SourceColumn="Preg16" DataSetColumn="Preg16" />
+              <Mapping SourceColumn="Preg17" DataSetColumn="Preg17" />
+              <Mapping SourceColumn="Preg18" DataSetColumn="Preg18" />
+              <Mapping SourceColumn="Preg19" DataSetColumn="Preg19" />
+              <Mapping SourceColumn="Preg20" DataSetColumn="Preg20" />
+              <Mapping SourceColumn="Preg21" DataSetColumn="Preg21" />
+              <Mapping SourceColumn="Preg22" DataSetColumn="Preg22" />
+              <Mapping SourceColumn="Preg23" DataSetColumn="Preg23" />
+              <Mapping SourceColumn="Preg24" DataSetColumn="Preg24" />
+              <Mapping SourceColumn="Preg25" DataSetColumn="Preg25" />
+              <Mapping SourceColumn="Preg26" DataSetColumn="Preg26" />
+              <Mapping SourceColumn="Preg27" DataSetColumn="Preg27" />
+              <Mapping SourceColumn="Preg28" DataSetColumn="Preg28" />
+              <Mapping SourceColumn="Preg29" DataSetColumn="Preg29" />
+              <Mapping SourceColumn="Preg30" DataSetColumn="Preg30" />
+              <Mapping SourceColumn="Preg31" DataSetColumn="Preg31" />
+              <Mapping SourceColumn="Preg32" DataSetColumn="Preg32" />
+              <Mapping SourceColumn="Preg33" DataSetColumn="Preg33" />
+              <Mapping SourceColumn="Preg34" DataSetColumn="Preg34" />
+              <Mapping SourceColumn="Preg35" DataSetColumn="Preg35" />
+              <Mapping SourceColumn="Preg36" DataSetColumn="Preg36" />
+              <Mapping SourceColumn="Preg37" DataSetColumn="Preg37" />
+              <Mapping SourceColumn="Preg38" DataSetColumn="Preg38" />
+              <Mapping SourceColumn="Preg39" DataSetColumn="Preg39" />
+              <Mapping SourceColumn="Preg40" DataSetColumn="Preg40" />
+              <Mapping SourceColumn="Preg41" DataSetColumn="Preg41" />
+              <Mapping SourceColumn="Preg42" DataSetColumn="Preg42" />
+              <Mapping SourceColumn="Preg43" DataSetColumn="Preg43" />
+              <Mapping SourceColumn="Preg44" DataSetColumn="Preg44" />
+              <Mapping SourceColumn="Preg45" DataSetColumn="Preg45" />
+              <Mapping SourceColumn="Preg46" DataSetColumn="Preg46" />
+              <Mapping SourceColumn="Preg47" DataSetColumn="Preg47" />
+              <Mapping SourceColumn="Preg48" DataSetColumn="Preg48" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSsistema" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSsistema" msprop:Generator_UserDSName="DSsistema">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Encuesta" msprop:Generator_TableClassName="EncuestaDataTable" msprop:Generator_TableVarName="tableEncuesta" msprop:Generator_TablePropName="Encuesta" msprop:Generator_RowDeletingName="EncuestaRowDeleting" msprop:Generator_RowChangingName="EncuestaRowChanging" msprop:Generator_RowEvHandlerName="EncuestaRowChangeEventHandler" msprop:Generator_RowDeletedName="EncuestaRowDeleted" msprop:Generator_UserTableName="Encuesta" msprop:Generator_RowChangedName="EncuestaRowChanged" msprop:Generator_RowEvArgName="EncuestaRowChangeEvent" msprop:Generator_RowClassName="EncuestaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NumEncuesta" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnNumEncuesta" msprop:Generator_ColumnPropNameInRow="NumEncuesta" msprop:Generator_ColumnPropNameInTable="NumEncuestaColumn" msprop:Generator_UserColumnName="NumEncuesta" type="xs:int" />
+              <xs:element name="Sexo" msprop:Generator_ColumnVarNameInTable="columnSexo" msprop:Generator_ColumnPropNameInRow="Sexo" msprop:Generator_ColumnPropNameInTable="SexoColumn" msprop:Generator_UserColumnName="Sexo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Ciudad" msprop:Generator_ColumnVarNameInTable="columnCiudad" msprop:Generator_ColumnPropNameInRow="Ciudad" msprop:Generator_ColumnPropNameInTable="CiudadColumn" msprop:Generator_UserColumnName="Ciudad" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Área" msprop:Generator_ColumnVarNameInTable="columnÁrea" msprop:Generator_ColumnPropNameInRow="Área" msprop:Generator_ColumnPropNameInTable="ÁreaColumn" msprop:Generator_UserColumnName="Área" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cargo" msprop:Generator_ColumnVarNameInTable="columnCargo" msprop:Generator_ColumnPropNameInRow="Cargo" msprop:Generator_ColumnPropNameInTable="CargoColumn" msprop:Generator_UserColumnName="Cargo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tiempo" msprop:Generator_ColumnVarNameInTable="columnTiempo" msprop:Generator_ColumnPropNameInRow="Tiempo" msprop:Generator_ColumnPropNameInTable="TiempoColumn" msprop:Generator_UserColumnName="Tiempo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg1" msprop:Generator_ColumnVarNameInTable="columnPreg1" msprop:Generator_ColumnPropNameInRow="Preg1" msprop:Generator_ColumnPropNameInTable="Preg1Column" msprop:Generator_UserColumnName="Preg1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg2" msprop:Generator_ColumnVarNameInTable="columnPreg2" msprop:Generator_ColumnPropNameInRow="Preg2" msprop:Generator_ColumnPropNameInTable="Preg2Column" msprop:Generator_UserColumnName="Preg2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg3" msprop:Generator_ColumnVarNameInTable="columnPreg3" msprop:Generator_ColumnPropNameInRow="Preg3" msprop:Generator_ColumnPropNameInTable="Preg3Column" msprop:Generator_UserColumnName="Preg3" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg4" msprop:Generator_ColumnVarNameInTable="columnPreg4" msprop:Generator_ColumnPropNameInRow="Preg4" msprop:Generator_ColumnPropNameInTable="Preg4Column" msprop:Generator_UserColumnName="Preg4" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg5" msprop:Generator_ColumnVarNameInTable="columnPreg5" msprop:Generator_ColumnPropNameInRow="Preg5" msprop:Generator_ColumnPropNameInTable="Preg5Column" msprop:Generator_UserColumnName="Preg5" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg6" msprop:Generator_ColumnVarNameInTable="columnPreg6" msprop:Generator_ColumnPropNameInRow="Preg6" msprop:Generator_ColumnPropNameInTable="Preg6Column" msprop:Generator_UserColumnName="Preg6" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg7" msprop:Generator_ColumnVarNameInTable="columnPreg7" msprop:Generator_ColumnPropNameInRow="Preg7" msprop:Generator_ColumnPropNameInTable="Preg7Column" msprop:Generator_UserColumnName="Preg7" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg8" msprop:Generator_ColumnVarNameInTable="columnPreg8" msprop:Generator_ColumnPropNameInRow="Preg8" msprop:Generator_ColumnPropNameInTable="Preg8Column" msprop:Generator_UserColumnName="Preg8" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg9" msprop:Generator_ColumnVarNameInTable="columnPreg9" msprop:Generator_ColumnPropNameInRow="Preg9" msprop:Generator_ColumnPropNameInTable="Preg9Column" msprop:Generator_UserColumnName="Preg9" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg10" msprop:Generator_ColumnVarNameInTable="columnPreg10" msprop:Generator_ColumnPropNameInRow="Preg10" msprop:Generator_ColumnPropNameInTable="Preg10Column" msprop:Generator_UserColumnName="Preg10" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg11" msprop:Generator_ColumnVarNameInTable="columnPreg11" msprop:Generator_ColumnPropNameInRow="Preg11" msprop:Generator_ColumnPropNameInTable="Preg11Column" msprop:Generator_UserColumnName="Preg11" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg12" msprop:Generator_ColumnVarNameInTable="columnPreg12" msprop:Generator_ColumnPropNameInRow="Preg12" msprop:Generator_ColumnPropNameInTable="Preg12Column" msprop:Generator_UserColumnName="Preg12" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg13" msprop:Generator_ColumnVarNameInTable="columnPreg13" msprop:Generator_ColumnPropNameInRow="Preg13" msprop:Generator_ColumnPropNameInTable="Preg13Column" msprop:Generator_UserColumnName="Preg13" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg14" msprop:Generator_ColumnVarNameInTable="columnPreg14" msprop:Generator_ColumnPropNameInRow="Preg14" msprop:Generator_ColumnPropNameInTable="Preg14Column" msprop:Generator_UserColumnName="Preg14" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg15" msprop:Generator_ColumnVarNameInTable="columnPreg15" msprop:Generator_ColumnPropNameInRow="Preg15" msprop:Generator_ColumnPropNameInTable="Preg15Column" msprop:Generator_UserColumnName="Preg15" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg16" msprop:Generator_ColumnVarNameInTable="columnPreg16" msprop:Generator_ColumnPropNameInRow="Preg16" msprop:Generator_ColumnPropNameInTable="Preg16Column" msprop:Generator_UserColumnName="Preg16" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg17" msprop:Generator_ColumnVarNameInTable="columnPreg17" msprop:Generator_ColumnPropNameInRow="Preg17" msprop:Generator_ColumnPropNameInTable="Preg17Column" msprop:Generator_UserColumnName="Preg17" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg18" msprop:Generator_ColumnVarNameInTable="columnPreg18" msprop:Generator_ColumnPropNameInRow="Preg18" msprop:Generator_ColumnPropNameInTable="Preg18Column" msprop:Generator_UserColumnName="Preg18" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg19" msprop:Generator_ColumnVarNameInTable="columnPreg19" msprop:Generator_ColumnPropNameInRow="Preg19" msprop:Generator_ColumnPropNameInTable="Preg19Column" msprop:Generator_UserColumnName="Preg19" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg20" msprop:Generator_ColumnVarNameInTable="columnPreg20" msprop:Generator_ColumnPropNameInRow="Preg20" msprop:Generator_ColumnPropNameInTable="Preg20Column" msprop:Generator_UserColumnName="Preg20" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg21" msprop:Generator_ColumnVarNameInTable="columnPreg21" msprop:Generator_ColumnPropNameInRow="Preg21" msprop:Generator_ColumnPropNameInTable="Preg21Column" msprop:Generator_UserColumnName="Preg21" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg22" msprop:Generator_ColumnVarNameInTable="columnPreg22" msprop:Generator_ColumnPropNameInRow="Preg22" msprop:Generator_ColumnPropNameInTable="Preg22Column" msprop:Generator_UserColumnName="Preg22" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg23" msprop:Generator_ColumnVarNameInTable="columnPreg23" msprop:Generator_ColumnPropNameInRow="Preg23" msprop:Generator_ColumnPropNameInTable="Preg23Column" msprop:Generator_UserColumnName="Preg23" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg24" msprop:Generator_ColumnVarNameInTable="columnPreg24" msprop:Generator_ColumnPropNameInRow="Preg24" msprop:Generator_ColumnPropNameInTable="Preg24Column" msprop:Generator_UserColumnName="Preg24" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg25" msprop:Generator_ColumnVarNameInTable="columnPreg25" msprop:Generator_ColumnPropNameInRow="Preg25" msprop:Generator_ColumnPropNameInTable="Preg25Column" msprop:Generator_UserColumnName="Preg25" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg26" msprop:Generator_ColumnVarNameInTable="columnPreg26" msprop:Generator_ColumnPropNameInRow="Preg26" msprop:Generator_ColumnPropNameInTable="Preg26Column" msprop:Generator_UserColumnName="Preg26" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg27" msprop:Generator_ColumnVarNameInTable="columnPreg27" msprop:Generator_ColumnPropNameInRow="Preg27" msprop:Generator_ColumnPropNameInTable="Preg27Column" msprop:Generator_UserColumnName="Preg27" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg28" msprop:Generator_ColumnVarNameInTable="columnPreg28" msprop:Generator_ColumnPropNameInRow="Preg28" msprop:Generator_ColumnPropNameInTable="Preg28Column" msprop:Generator_UserColumnName="Preg28" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg29" msprop:Generator_ColumnVarNameInTable="columnPreg29" msprop:Generator_ColumnPropNameInRow="Preg29" msprop:Generator_ColumnPropNameInTable="Preg29Column" msprop:Generator_UserColumnName="Preg29" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg30" msprop:Generator_ColumnVarNameInTable="columnPreg30" msprop:Generator_ColumnPropNameInRow="Preg30" msprop:Generator_ColumnPropNameInTable="Preg30Column" msprop:Generator_UserColumnName="Preg30" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg31" msprop:Generator_ColumnVarNameInTable="columnPreg31" msprop:Generator_ColumnPropNameInRow="Preg31" msprop:Generator_ColumnPropNameInTable="Preg31Column" msprop:Generator_UserColumnName="Preg31" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg32" msprop:Generator_ColumnVarNameInTable="columnPreg32" msprop:Generator_ColumnPropNameInRow="Preg32" msprop:Generator_ColumnPropNameInTable="Preg32Column" msprop:Generator_UserColumnName="Preg32" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg33" msprop:Generator_ColumnVarNameInTable="columnPreg33" msprop:Generator_ColumnPropNameInRow="Preg33" msprop:Generator_ColumnPropNameInTable="Preg33Column" msprop:Generator_UserColumnName="Preg33" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg34" msprop:Generator_ColumnVarNameInTable="columnPreg34" msprop:Generator_ColumnPropNameInRow="Preg34" msprop:Generator_ColumnPropNameInTable="Preg34Column" msprop:Generator_UserColumnName="Preg34" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg35" msprop:Generator_ColumnVarNameInTable="columnPreg35" msprop:Generator_ColumnPropNameInRow="Preg35" msprop:Generator_ColumnPropNameInTable="Preg35Column" msprop:Generator_UserColumnName="Preg35" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg36" msprop:Generator_ColumnVarNameInTable="columnPreg36" msprop:Generator_ColumnPropNameInRow="Preg36" msprop:Generator_ColumnPropNameInTable="Preg36Column" msprop:Generator_UserColumnName="Preg36" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg37" msprop:Generator_ColumnVarNameInTable="columnPreg37" msprop:Generator_ColumnPropNameInRow="Preg37" msprop:Generator_ColumnPropNameInTable="Preg37Column" msprop:Generator_UserColumnName="Preg37" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg38" msprop:Generator_ColumnVarNameInTable="columnPreg38" msprop:Generator_ColumnPropNameInRow="Preg38" msprop:Generator_ColumnPropNameInTable="Preg38Column" msprop:Generator_UserColumnName="Preg38" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg39" msprop:Generator_ColumnVarNameInTable="columnPreg39" msprop:Generator_ColumnPropNameInRow="Preg39" msprop:Generator_ColumnPropNameInTable="Preg39Column" msprop:Generator_UserColumnName="Preg39" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg40" msprop:Generator_ColumnVarNameInTable="columnPreg40" msprop:Generator_ColumnPropNameInRow="Preg40" msprop:Generator_ColumnPropNameInTable="Preg40Column" msprop:Generator_UserColumnName="Preg40" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg41" msprop:Generator_ColumnVarNameInTable="columnPreg41" msprop:Generator_ColumnPropNameInRow="Preg41" msprop:Generator_ColumnPropNameInTable="Preg41Column" msprop:Generator_UserColumnName="Preg41" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg42" msprop:Generator_ColumnVarNameInTable="columnPreg42" msprop:Generator_ColumnPropNameInRow="Preg42" msprop:Generator_ColumnPropNameInTable="Preg42Column" msprop:Generator_UserColumnName="Preg42" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg43" msprop:Generator_ColumnVarNameInTable="columnPreg43" msprop:Generator_ColumnPropNameInRow="Preg43" msprop:Generator_ColumnPropNameInTable="Preg43Column" msprop:Generator_UserColumnName="Preg43" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg44" msprop:Generator_ColumnVarNameInTable="columnPreg44" msprop:Generator_ColumnPropNameInRow="Preg44" msprop:Generator_ColumnPropNameInTable="Preg44Column" msprop:Generator_UserColumnName="Preg44" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg45" msprop:Generator_ColumnVarNameInTable="columnPreg45" msprop:Generator_ColumnPropNameInRow="Preg45" msprop:Generator_ColumnPropNameInTable="Preg45Column" msprop:Generator_UserColumnName="Preg45" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg46" msprop:Generator_ColumnVarNameInTable="columnPreg46" msprop:Generator_ColumnPropNameInRow="Preg46" msprop:Generator_ColumnPropNameInTable="Preg46Column" msprop:Generator_UserColumnName="Preg46" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg47" msprop:Generator_ColumnVarNameInTable="columnPreg47" msprop:Generator_ColumnPropNameInRow="Preg47" msprop:Generator_ColumnPropNameInTable="Preg47Column" msprop:Generator_UserColumnName="Preg47" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Preg48" msprop:Generator_ColumnVarNameInTable="columnPreg48" msprop:Generator_ColumnPropNameInRow="Preg48" msprop:Generator_ColumnPropNameInTable="Preg48Column" msprop:Generator_UserColumnName="Preg48" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Encuesta" />
+      <xs:field xpath="mstns:NumEncuesta" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
